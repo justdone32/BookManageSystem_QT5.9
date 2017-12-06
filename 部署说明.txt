@@ -1,0 +1,15 @@
+
+这套程序使用的是将数据读写到文件中。
+1.需要在运行目录下创建3个文件夹
+Admin
+Books
+Readers
+2.在Admin目录下，创建2个文件
+  Admin.dat,里面包含内容Admin
+  Root.dat,里面包含内容Root
+3.在Books目录下,创建1个文件
+  Books.dat
+4.在Readers目录下,创建1个文件
+  Readers.dat
+
+2017-12-06 16:56:05 justdone32@163.com
